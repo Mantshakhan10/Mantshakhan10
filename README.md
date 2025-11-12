@@ -9,33 +9,26 @@
 
 ### 🌼 About Me
 
-- 🌱 I’m learning and practicing **Web Development** with focus on HTML, CSS, and JavaScript.  
-- 💡 I love creating webpages that are both simple and beautiful.  
-- 🎯 My goal is to keep improving my coding and creative skills every day.  
-- ⚙️ I believe in *learning by doing* and *growing with consistency*.  
+- 🌱 Currently learning **Web Development** 
+- 💡 I enjoy exploring new technologies and improving step by step  
+- 🎯 My focus is on learning the basics and building a strong foundation  
+- ⚙️ I believe in *learning by doing* and *growing with consistency*  
 
 ---
 
-### 🧠 Skills & Tools
-
-#### 🗣️ Programming Languages  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="45"/> <b>HTML</b> – Structure of webpages<br><br>
-  <img src="https://skillicons.dev/icons?i=css" height="45"/> <b>CSS</b> – Styling and design<br><br>
-  <img src="https://skillicons.dev/icons?i=js" height="45"/> <b>JavaScript</b> – Making websites interactive<br><br>
-  <img src="https://skillicons.dev/icons?i=cpp" height="45"/> <b>C++</b> – Logic and problem solving<br><br>
-  <img src="https://skillicons.dev/icons?i=java" height="45"/> <b>Java</b> – Object-oriented programming<br><br>
-  <img src="https://skillicons.dev/icons?i=python" height="45"/> <b>Python</b> – Easy and powerful scripting language
+### 🧠 Skills (Basics)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,python" height="50" /><br>
+  <b>HTML | CSS | JavaScript | C++ | Java | Python</b>
 </p>
 
 ---
 
-#### 🧰 Tools & Platforms  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="45"/> <b>Git</b> – Version control system<br><br>
-  <img src="https://skillicons.dev/icons?i=github" height="45"/> <b>GitHub</b> – Hosting and sharing code<br><br>
-  <img src="https://skillicons.dev/icons?i=vscode" height="45"/> <b>VS Code</b> – My favorite code editor<br><br>
-  <img src="https://img.shields.io/badge/MS%20Office-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white" height="25"/> <b>MS Office</b> – Documentation and presentations
+### 🧰 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="50" />
+  <img src="https://img.shields.io/badge/MS%20Office-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white" height="30" /><br>
+  <b>Git | GitHub | VS Code | MS Office</b>
 </p>
 
 ---
@@ -63,11 +56,9 @@
 ---
 
 <p align="center">
-  ✨ <em>“Code with passion, learn with curiosity, and grow with patience.”</em> ✨
+  ✨ <em>“Every expert was once a beginner — keep learning, keep growing.”</em> ✨
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mantshakhan10&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
+<p align="cente
