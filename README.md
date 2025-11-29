@@ -33,14 +33,21 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mantshakhan10&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mantshakhan10&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mantshakhan10&theme=tokyonight&show_icons=true&hide_border=true" height="165" alt="stats"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mantshakhan10&theme=tokyonight&hide_border=true" height="165" alt="streak"/>
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mantshakhan10&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="languages"/>
+</p>
+
+-----
 
 ### 📫 Connect With Me
 
@@ -61,4 +68,6 @@
 
 ---
 
-<p align="cente
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mantshakhan10&style=flat-square&color=blue"/>
+</p>
