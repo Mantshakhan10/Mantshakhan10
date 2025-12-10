@@ -32,19 +32,14 @@
 </p>
 
 ---
+## 📊 GitHub Stats (Safe Mode)
 
-## 📊 GitHub Stats
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mantshakhan10&theme=tokyonight&show_icons=true&hide_border=true" height="165" alt="stats"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mantshakhan10&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mantshakhan10&theme=tokyonight&hide_border=true" height="165" alt="streak"/>
-</p> -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mantshakhan10&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mantshakhan10&theme=tokyonight" height="165"/>
 </p>
 
 -----
