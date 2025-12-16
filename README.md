@@ -32,7 +32,7 @@
 </p>
 
 ---
-## 📊 GitHub Stats (Safe Mode)
+## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mantshakhan10&theme=tokyonight" height="165"/>
