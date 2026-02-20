@@ -16,7 +16,7 @@
 
 ---
 
-### 🧠 Skills (Basics)
+### 🧠 Skills (Basic)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,java,python" height="50" /><br>
   <b>HTML | CSS | JavaScript | React | C++ | Java | Python</b>
