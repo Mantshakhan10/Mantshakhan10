@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">👋 Hello, I'm <span style="color:#9370DB;">Mantsha Khan</span></h1>
+<h1 align="center">👋 Hii, I'm <span style="color:#9370DB;">Mantsha Khan</span></h1>
 
 <p align="center">
   💻 <em>Tech Enthusiast | Frontend Learner | Curious Mind Exploring Code & Design</em>
@@ -32,7 +32,7 @@
 </p>
 
 ---
-## 📊 GitHub Stats 
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mantshakhan10&theme=tokyonight" height="165"/>
