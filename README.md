@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">👋 Hello, I'm <span style="color:#9370DB;">Mantsha Khan</span></h1>
+<h1 align="center">👋 Hii, I'm <span style="color:#9370DB;">Mantsha Khan</span></h1>
 
 <p align="center">
   💻 <em>Tech Enthusiast | Frontend Learner | Curious Mind Exploring Code & Design</em>
@@ -7,7 +7,7 @@
 
 ---
 
-### 🌼 About Me
+### 🌼 About Mee
 
 - 🌱 Currently learning **Web Development** 
 - 💡 I enjoy exploring new technologies and improving step by step  
