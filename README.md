@@ -9,7 +9,7 @@
 
 ### 🌼 About Mee
 
-- 🌱 Currently learning **Web Development** 
+- 🌱 Currently learning **Web Development**
 - 💡 I enjoy exploring new technologies and improving step by step  
 - 🎯 My focus is on learning the basics and building a strong foundation  
 - ⚙️ I believe in *learning by doing* and *growing with consistency*  
