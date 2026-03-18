@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">👋 Hello, I'm <span style="color:#9370DB;">Mantsha Khan</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#9370DB;">Mantsha Khan</span></h1>
 
 <p align="center">
   💻 <em>Tech Enthusiast | Frontend Learner | Curious Mind Exploring Code & Design</em>
