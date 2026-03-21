@@ -7,7 +7,7 @@
 
 ---
 
-### 🌼 About Mee
+### 🌼 About Me
 
 - 🌱 Currently learning **Web Development**
 - 💡 I enjoy exploring new technologies and improving step by step  
