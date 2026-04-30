@@ -42,19 +42,11 @@ I work with the MERN stack and enjoy creating clean, scalable, and user-friendly
 
 ## 🚀 Featured Projects
 
-### 🔹 Phinn — Phishing Detection Extension  
-> A real-time browser extension that detects malicious websites  
-
-🛠 Tech: JavaScript, Chrome Extension API  
-🔗 https://github.com/Mantshakhan10/YOUR-REPO  
-
----
-
 ### 🔹 Expense Tracker (MERN Stack)  
 > Full-stack app to manage income, expenses, and budgets  
 
 🛠 Tech: MongoDB, Express, React, Node  
-🔗 https://github.com/Mantshakhan10/YOUR-REPO  
+🔗 https://github.com/Mantshakhan10/Expenses-Tracker.git
 
 ---
 
@@ -62,7 +54,7 @@ I work with the MERN stack and enjoy creating clean, scalable, and user-friendly
 > Real-time weather app using external APIs  
 
 🛠 Tech: JavaScript, API Integration  
-🔗 https://github.com/Mantshakhan10/YOUR-REPO  
+🔗 https://github.com/Mantshakhan10/Weather-App.git
 
 ---
 
