@@ -31,7 +31,7 @@ JavaScript • React • Node.js • Express • MongoDB • HTML • CSS • Ta
 
 Full-stack app to track income and expenses with clean UI and data visualization.
 
-🔗 https://github.com/Mantshakhan10/YOUR-REPO  
+🔗 https://github.com/Mantshakhan10/Expenses-Tracker.git
 
 ---
 
@@ -42,7 +42,7 @@ Full-stack app to track income and expenses with clean UI and data visualization
 
 Real-time weather application with responsive UI.
 
-🔗 https://github.com/Mantshakhan10/YOUR-REPO  
+🔗 https://github.com/Mantshakhan10/Weather-App.git
 
 ---
 
