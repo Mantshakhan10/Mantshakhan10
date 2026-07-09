@@ -44,14 +44,6 @@ Real-time weather application with responsive UI.
 
 🔗 https://github.com/Mantshakhan10/Weather-App.git
 
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mantshakhan10&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mantshakhan10&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
